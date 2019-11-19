@@ -75,7 +75,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-# $ git rm -r --cached .
-# $ git add .
-# $ git commit -m "Clean up ignored files"
