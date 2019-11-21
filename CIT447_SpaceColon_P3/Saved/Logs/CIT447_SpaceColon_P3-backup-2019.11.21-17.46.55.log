@@ -1,0 +1,1458 @@
+﻿Log file open, 11/21/19 12:27:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CIT447_SpaceColon_P3
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.098682
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 745
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.21-17.27.05:071][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.21-17.27.05:071][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.21-17.27.05:071][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/Config/Windows/Engine.ini]
+[2019.11.21-17.27.05:071][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.21-17.27.05:071][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.11.21-17.27.05:071][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/Config/Windows/Engine.ini]
+[2019.11.21-17.27.05:071][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/Config/Windows/Engine.ini]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/Config/Windows/Engine.ini]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.21-17.27.05:072][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/Config/Windows/Engine.ini]
+[2019.11.21-17.27.05:072][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/Config/Windows/Engine.ini]
+[2019.11.21-17.27.05:074][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.21-17.27.05:074][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.21-17.27.05:075][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.21-17.27.05:075][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.21-17.27.05:075][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.21-17.27.05:082][  0]LogHAL: Display: Platform has ~ 32 GB [34299015168 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.21-17.27.05:082][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.21-17.27.05:082][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.21-17.27.05:082][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/Config/Windows/Scalability.ini]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.21-17.27.05:083][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.21-17.27.05:085][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.21-17.27.05:085][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.21-17.27.05:085][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/Config/Windows/Engine.ini]
+[2019.11.21-17.27.05:085][  0]LogInit: Computer: COSWAEC1104-18
+[2019.11.21-17.27.05:085][  0]LogInit: User: petin
+[2019.11.21-17.27.05:085][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.21-17.27.05:085][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.21-17.27.05:085][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.11.21-17.27.05:085][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.21-17.27.05:085][  0]LogMemory: Process Physical Memory: 100.71 MB used, 100.71 MB peak
+[2019.11.21-17.27.05:085][  0]LogMemory: Process Virtual Memory: 88.55 MB used, 88.55 MB peak
+[2019.11.21-17.27.05:085][  0]LogMemory: Physical Memory: 8039.45 MB used,  24670.64 MB free, 32710.09 MB total
+[2019.11.21-17.27.05:085][  0]LogMemory: Virtual Memory: 4657.01 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.11.21-17.27.05:092][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.21-17.27.05:184][  0]LogInit: Using OS detected language (en-US).
+[2019.11.21-17.27.05:184][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.21-17.27.05:185][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.21-17.27.05:365][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.21-17.27.05:410][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.21-17.27.05:410][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.21-17.27.05:751][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.21-17.27.05:751][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.21-17.27.05:804][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 745' (Feature Level 11_0)
+[2019.11.21-17.27.05:804][  0]LogD3D11RHI:       4053/0/16355 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.21-17.27.05:807][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.21-17.27.05:807][  0]LogD3D11RHI:       0/0/16355 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.21-17.27.05:807][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.21-17.27.05:814][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.21-17.27.05:814][  0]LogD3D11RHI:     GPU DeviceId: 0x1382 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.21-17.27.05:814][  0]LogWindows: EnumDisplayDevices:
+[2019.11.21-17.27.05:814][  0]LogWindows:    0. 'NVIDIA GeForce GTX 745' (P:1 D:1)
+[2019.11.21-17.27.05:814][  0]LogWindows:    1. 'NVIDIA GeForce GTX 745' (P:0 D:0)
+[2019.11.21-17.27.05:814][  0]LogWindows:    2. 'NVIDIA GeForce GTX 745' (P:0 D:0)
+[2019.11.21-17.27.05:815][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.11.21-17.27.05:815][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 745
+[2019.11.21-17.27.05:815][  0]LogD3D11RHI:   Driver Version: 391.25 (internal:23.21.13.9125, unified:391.25)
+[2019.11.21-17.27.05:815][  0]LogD3D11RHI:      Driver Date: 3-16-2018
+[2019.11.21-17.27.05:815][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2019.11.21-17.27.05:853][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.21-17.27.05:871][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.11.21-17.27.06:280][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.21-17.27.06:292][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.21-17.27.06:305][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.21-17.27.06:317][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.21-17.27.06:331][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.21-17.27.06:343][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.21-17.27.06:356][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.21-17.27.06:369][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.21-17.27.06:376][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.21-17.27.06:414][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.21-17.27.06:414][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.21-17.27.06:414][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.21-17.27.06:414][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.21-17.27.06:414][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.21-17.27.06:414][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.21-17.27.06:414][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.21-17.27.06:414][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.21-17.27.06:414][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.21-17.27.06:414][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.21-17.27.06:414][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.21-17.27.06:414][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.21-17.27.06:414][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.21-17.27.06:414][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.21-17.27.06:414][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.21-17.27.06:414][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.21-17.27.06:414][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.21-17.27.06:414][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.21-17.27.06:419][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.21-17.27.06:454][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.21-17.27.06:454][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.21-17.27.06:475][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.21-17.27.06:475][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.21-17.27.06:485][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.21-17.27.06:494][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.21-17.27.06:505][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.21-17.27.06:517][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.21-17.27.06:548][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.21-17.27.06:548][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.21-17.27.06:548][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.21-17.27.06:569][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.21-17.27.06:674][  0]LogShaderCompilers: Guid format shader working directory is -42 characters bigger than the processId version (../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Intermediate/Shaders/WorkingDirectory/1188/).
+[2019.11.21-17.27.06:676][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/petin/AppData/Local/Temp/UnrealShaderWorkingDir/B6F306B144390FD3BB08D881858E2069/'.
+[2019.11.21-17.27.06:679][  0]LogXGEController: Cleaning working directory: C:/Users/petin/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.21-17.27.06:680][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.21-17.27.06:680][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.21-17.27.06:680][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.21-17.27.07:459][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.21-17.27.07:731][  0]LogDerivedDataCache: Loaded boot cache 0.27s 73MB C:/Users/petin/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.21-17.27.07:732][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/petin/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.21-17.27.07:732][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.21-17.27.07:732][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.21-17.27.07:732][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.21-17.27.07:732][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.21-17.27.07:754][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.21-17.27.07:754][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.21-17.27.07:754][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.21-17.27.07:759][  0]LogDerivedDataCache: Using Local data cache path C:/Users/petin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.21-17.27.07:759][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.21-17.27.07:759][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.21-17.27.07:780][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.21-17.27.07:783][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.21-17.27.07:784][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.21-17.27.08:018][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2019.11.21-17.27.08:280][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.21-17.27.08:467][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.21-17.27.08:467][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.21-17.27.08:467][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.21-17.27.08:467][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.21-17.27.08:467][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.21-17.27.08:477][  0]LogNetVersion: CIT447_SpaceColon_P3 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1548576567)
+[2019.11.21-17.27.08:921][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.070843 seconds
+[2019.11.21-17.27.08:928][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.11.21-17.27.08:928][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.11.21-17.27.08:928][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.21-17.27.11:784][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.21-17.27.11:836][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.21-17.27.11:925][  0]SourceControl: Source control is disabled
+[2019.11.21-17.27.11:925][  0]SourceControl: Source control is disabled
+[2019.11.21-17.27.11:929][  0]SourceControl: Source control is disabled
+[2019.11.21-17.27.11:932][  0]SourceControl: Source control is disabled
+[2019.11.21-17.27.12:216][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.21-17.27.12:343][  0]LogOcInput: OculusInput pre-init called
+[2019.11.21-17.27.12:354][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.11.21-17.27.12:354][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.11.21-17.27.12:438][  0]LogEngine: Initializing Engine...
+[2019.11.21-17.27.12:439][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.21-17.27.12:440][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.21-17.27.12:720][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.21-17.27.12:743][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.21-17.27.12:753][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.21-17.27.12:963][  0]LogInit: FAudioDevice initialized.
+[2019.11.21-17.27.12:964][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.21-17.27.13:121][  0]LogDerivedDataCache: Saved boot cache 0.16s 73MB C:/Users/petin/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.21-17.27.13:130][  0]LogInit: Texture streaming: Enabled
+[2019.11.21-17.27.13:168][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.21-17.27.13:168][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.11.21-17.27.13:170][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.11.21-17.27.13:203][  0]LogInit: Transaction tracking system initialized
+[2019.11.21-17.27.13:259][  0]BlueprintLog: New page: Editor Load
+[2019.11.21-17.27.13:407][  0]LocalizationService: Localization service is disabled
+[2019.11.21-17.27.13:727][  0]LogFileCache: Scanning file cache for directory 'C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Content/' took 0.00s
+[2019.11.21-17.27.13:727][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.21-17.27.13:727][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.21-17.27.14:106][  0]SourceControl: Source control is disabled
+[2019.11.21-17.27.14:107][  0]Cmd: MAP LOAD FILE="../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.21-17.27.14:107][  0]LightingResults: New page: Lighting Build
+[2019.11.21-17.27.14:111][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.21-17.27.14:111][  0]MapCheck: New page: Map Check
+[2019.11.21-17.27.14:111][  0]LightingResults: New page: Lighting Build
+[2019.11.21-17.27.14:136][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.11.21-17.27.14:351][  0]LogTexture: Display: Building textures: Daycare7 (BGRA8, 800X533)
+[2019.11.21-17.27.14:352][  0]LogAIModule: Creating AISystem for world MainMenuLevel
+[2019.11.21-17.27.14:353][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.21-17.27.14:377][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.11.21-17.27.14:377][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.21-17.27.14:377][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.206ms to complete.
+[2019.11.21-17.27.14:377][  0]LogFileHelpers: Loading map 'MainMenuLevel' took 0.272
+[2019.11.21-17.27.14:479][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-17.27.14:485][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-17.27.14:492][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-17.27.14:499][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-17.27.14:512][  0]LogCollectionManager: Loaded 0 collections in 0.002792 seconds
+[2019.11.21-17.27.14:528][  0]LogFileCache: Scanning file cache for directory 'C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/Collections/' took 0.00s
+[2019.11.21-17.27.14:528][  0]LogFileCache: Scanning file cache for directory 'C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Content/Developers/petin/Collections/' took 0.00s
+[2019.11.21-17.27.14:528][  0]LogFileCache: Scanning file cache for directory 'C:/Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Content/Collections/' took 0.00s
+[2019.11.21-17.27.14:528][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.11.21-17.27.14:536][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2863 classes and 680 folders.
+[2019.11.21-17.27.14:545][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.21-17.27.14:822][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2019.11.21-17.27.14:845][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.11.21-17.27.14:929][  0]LogSlate: Took 0.000410 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.21-17.27.14:932][  0]LogSlate: Took 0.000351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.21-17.27.14:937][  0]LogSlate: Took 0.000348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.21-17.27.15:000][  0]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:1).
+[2019.11.21-17.27.15:229][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.11.21-17.27.15:229][  0]LogLoad: (Engine Initialization) Total time: 12.80 seconds
+[2019.11.21-17.27.15:230][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.21-17.27.15:297][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.21-17.27.15:307][  0]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.21-17.27.15:318][  1]LogAssetRegistry: Asset discovery search completed in 7.3001 seconds
+[2019.11.21-17.27.15:321][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2019.11.21-17.27.15:321][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2019.11.21-17.28.15:249][627]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={C939CBF9-4B87-DF9D-4AE1-4E998F31EDA5}
+[2019.11.21-17.28.15:249][627]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={6F449F39-4890-1967-4FAE-C4951420954E}
+[2019.11.21-17.28.30:007][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.21-17.29.58:511][231]LogSlate: Took 0.000341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.21-17.29.58:525][231]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/LevelMenuWidget_UI.LevelMenuWidget_UI
+[2019.11.21-17.29.58:861][231]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.11.21-17.30.01:253][231]LogSlate: Took 0.015208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.21-17.31.20:755][589]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/MainLevelWidget_UI.MainLevelWidget_UI
+[2019.11.21-17.31.25:933][947]LogSlate: Took 0.000422 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.21-17.32.14:172][408]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/LevelGamemode.LevelGamemode
+[2019.11.21-17.32.18:751][779]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/MenuGamemode.MenuGamemode
+[2019.11.21-17.32.36:302][293]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.21-17.33.17:702][733]BlueprintLog: New page: Compile MenuGamemode
+[2019.11.21-17.33.17:949][733]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2019.11.21-17.33.55:759][571]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2019.11.21-17.33.55:830][571]LogSavePackage: Moving '../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/MenuGamemode4248C8D8442C233AE9FA719F02B63A88.tmp' to '../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Content/Blueprints/MenuGamemode.uasset'
+[2019.11.21-17.36.25:287][843]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.21-17.36.25:318][843]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.11.21-17.36.25:318][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.21-17.36.25:319][843]PIE: New page: PIE session: MainMenuLevel (Nov 21, 2019, 7:36:25 AM)
+[2019.11.21-17.36.25:320][843]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.11.21-17.36.25:321][843]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2019.11.21-17.36.25:322][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001068s)
+[2019.11.21-17.36.25:323][843]LogAIModule: Creating AISystem for world MainMenuLevel
+[2019.11.21-17.36.25:323][843]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2019.11.21-17.36.25:323][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002320s)
+[2019.11.21-17.36.25:365][843]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.11.21-17.36.25:371][843]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.21-17.36.25:398][843]LogInit: FAudioDevice initialized.
+[2019.11.21-17.36.25:405][843]LogLoad: Game class is 'MenuGamemode_C'
+[2019.11.21-17.36.25:406][843]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2019.11.21-12.36.25
+[2019.11.21-17.36.25:406][843]LogWorld: Bringing up level for play took: 0.000331
+[2019.11.21-17.36.25:406][843]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.11.21-17.36.25:675][843]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2019.11.21-17.36.25:949][843]LogScript: Warning: Accessed None trying to read property MainLevelWidget
+	MenuGamemode_C /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel:PersistentLevel.MenuGamemode_C_0
+	Function /Game/Blueprints/MenuGamemode.MenuGamemode_C:SetWidgetFunction:00A8
+[2019.11.21-17.36.25:949][843]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MainLevelWidget". Blueprint:  MenuGamemode Function:  Set Widget Function Graph:  SetWidgetFunction Node:  Add to Viewport
+[2019.11.21-17.36.25:978][843]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenuLevel -0.307
+[2019.11.21-17.36.25:979][843]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.11.21-17.36.27:332][946]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.11.21-17.36.27:332][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-17.36.27:332][946]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2019.11.21-17.36.27:332][946]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.21-17.36.27:343][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.21-17.36.27:344][946]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.11.21-17.36.27:393][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-17.36.27:421][946]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.11.21-17.36.27:455][947]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.11.21-17.36.40:586][ 37]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.21-17.36.56:897][273]LogRenderer: Reallocating scene render targets to support 1208x788 Format 10 NumSamples 1 (Frame:1).
+[2019.11.21-17.37.22:515][252]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.21-17.37.22:543][252]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.11.21-17.37.22:543][252]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.21-17.37.22:544][252]LogPlayLevel: [PlayLevel] Compiling MenuGamemode before play...
+[2019.11.21-17.37.22:816][252]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2019.11.21-17.37.22:816][252]LogPlayLevel: PlayLevel: Blueprint regeneration took 273 ms (1 blueprints)
+[2019.11.21-17.37.22:816][252]PIE: New page: PIE session: MainMenuLevel (Nov 21, 2019, 7:37:22 AM)
+[2019.11.21-17.37.22:819][252]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2019.11.21-17.37.22:820][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001042s)
+[2019.11.21-17.37.22:821][252]LogAIModule: Creating AISystem for world MainMenuLevel
+[2019.11.21-17.37.22:821][252]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2019.11.21-17.37.22:821][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002130s)
+[2019.11.21-17.37.22:865][252]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.11.21-17.37.22:871][252]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.21-17.37.22:898][252]LogInit: FAudioDevice initialized.
+[2019.11.21-17.37.22:908][252]LogLoad: Game class is 'MenuGamemode_C'
+[2019.11.21-17.37.22:909][252]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2019.11.21-12.37.22
+[2019.11.21-17.37.22:909][252]LogWorld: Bringing up level for play took: 0.000413
+[2019.11.21-17.37.22:910][252]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.11.21-17.37.22:913][252]LogScript: Warning: Accessed None trying to read property MainLevelWidget
+	MenuGamemode_C /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel:PersistentLevel.MenuGamemode_C_0
+	Function /Game/Blueprints/MenuGamemode.MenuGamemode_C:SetWidgetFunction:00A8
+[2019.11.21-17.37.22:913][252]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MainLevelWidget". Blueprint:  MenuGamemode Function:  Set Widget Function Graph:  SetWidgetFunction Node:  Add to Viewport
+[2019.11.21-17.37.22:913][252]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenuLevel 0.627
+[2019.11.21-17.37.22:913][252]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.11.21-17.37.26:125][494]LogSlate: Window 'Message Log' being destroyed
+[2019.11.21-17.37.26:131][494]LogSlate: Window 'Message Log' being destroyed
+[2019.11.21-17.37.27:400][621]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.11.21-17.37.27:401][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-17.37.27:401][621]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2019.11.21-17.37.27:401][621]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.21-17.37.27:411][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.21-17.37.27:411][621]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.11.21-17.37.27:460][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-17.37.27:465][621]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.11.21-17.37.27:508][623]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.11.21-17.37.29:143][753]LogSlate: Window 'Message Log' being destroyed
+[2019.11.21-17.37.29:146][753]LogSlate: Window 'Message Log' being destroyed
+[2019.11.21-17.37.55:690][853]LogEditorTransaction: Undo Paste clipboard contents
+[2019.11.21-17.37.58:917][100]LogEditorTransaction: Undo Delete current selection
+[2019.11.21-17.38.00:509][222]LogEditorTransaction: Redo Delete current selection
+[2019.11.21-17.38.00:948][256]LogEditorTransaction: Redo Paste clipboard contents
+[2019.11.21-17.38.20:913][960]BlueprintLog: New page: Compile MenuGamemode
+[2019.11.21-17.38.20:925][960]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.21-17.39.34:514][960]LogStats: FPlatformStackWalk::StackWalkAndDump - 73.588 s
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: 
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: Ensure condition failed: CurrentTransaction [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/EditorTransaction.cpp] [Line: 1548]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: 
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: Stack: 
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd74d69539 UE4Editor-UnrealEd.dll!<lambda_948ea242337a3b7c625626d09ccbe5b6>::operator()() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editortransaction.cpp:1548]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd742840be UE4Editor-UnrealEd.dll!UTransBuffer::IsObjectTransacting() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editortransaction.cpp:1548]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd769c09ca UE4Editor-Engine.dll!UEdGraphPin::ResolveReferencesToPin() [d:\build\++ue4\sync\engine\source\runtime\engine\private\edgraph\edgraphpin.cpp:1728]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd769c3138 UE4Editor-Engine.dll!UEdGraphPin::Serialize() [d:\build\++ue4\sync\engine\source\runtime\engine\private\edgraph\edgraphpin.cpp:1672]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd769c38e7 UE4Editor-Engine.dll!UEdGraphPin::SerializePin() [d:\build\++ue4\sync\engine\source\runtime\engine\private\edgraph\edgraphpin.cpp:1986]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd769c3d38 UE4Editor-Engine.dll!UEdGraphPin::SerializePinArray() [d:\build\++ue4\sync\engine\source\runtime\engine\private\edgraph\edgraphpin.cpp:1789]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd70d4d4ab UE4Editor-BlueprintGraph.dll!UK2Node::Serialize() [d:\build\++ue4\sync\engine\source\editor\blueprintgraph\private\k2node.cpp:89]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e43c979 UE4Editor-CoreUObject.dll!StaticDuplicateObjectEx() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\uobjectglobals.cpp:2064]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd740d4ea0 UE4Editor-UnrealEd.dll!FEdGraphUtilities::CloneGraph() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\edgraphutilities.cpp:254]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd740d4cbf UE4Editor-UnrealEd.dll!FEdGraphUtilities::CloneAndMergeGraphIn() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\edgraphutilities.cpp:297]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd6d1489ba UE4Editor-KismetCompiler.dll!FKismetCompilerContext::MergeUbergraphPagesIn() [d:\build\++ue4\sync\engine\source\editor\kismetcompiler\private\kismetcompiler.cpp:2986]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd6d123ec6 UE4Editor-KismetCompiler.dll!FKismetCompilerContext::CreateAndProcessUbergraph() [d:\build\++ue4\sync\engine\source\editor\kismetcompiler\private\kismetcompiler.cpp:3222]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd6d128ad3 UE4Editor-KismetCompiler.dll!FKismetCompilerContext::CreateFunctionList() [d:\build\++ue4\sync\engine\source\editor\kismetcompiler\private\kismetcompiler.cpp:3779]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd6d1182ef UE4Editor-KismetCompiler.dll!FKismetCompilerContext::CompileClassLayout() [d:\build\++ue4\sync\engine\source\editor\kismetcompiler\private\kismetcompiler.cpp:4040]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd72021bfc UE4Editor-Kismet.dll!FBlueprintCompilationManagerImpl::FlushCompilationQueueImpl() [d:\build\++ue4\sync\engine\source\editor\kismet\private\blueprintcompilationmanager.cpp:1040]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd71fd3977 UE4Editor-Kismet.dll!FBlueprintCompilationManagerImpl::CompileSynchronouslyImpl() [d:\build\++ue4\sync\engine\source\editor\kismet\private\blueprintcompilationmanager.cpp:239]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd745960e8 UE4Editor-UnrealEd.dll!FKismetEditorUtilities::CompileBlueprint() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\kismet2\kismet2.cpp:779]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd720ca781 UE4Editor-Kismet.dll!FBlueprintEditor::Compile() [d:\build\++ue4\sync\engine\source\editor\kismet\private\blueprinteditor.cpp:3370]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd720e5d78 UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,FBlueprintEditor,0,void __cdecl(void)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:369]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75a07fda UE4Editor-Slate.dll!FUICommandList::ExecuteAction() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\commands\uicommandlist.cpp:102]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75aea262 UE4Editor-Slate.dll!SToolBarButtonBlock::OnClicked() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\multibox\stoolbarbuttonblock.cpp:300]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75acccf4 UE4Editor-Slate.dll!TBaseSPMethodDelegateInstance<0,SToolBarButtonBlock,0,FReply __cdecl(void)>::Execute() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:293]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75b658b8 UE4Editor-Slate.dll!SButton::ExecuteOnClick() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\input\sbutton.cpp:379]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75b814b1 UE4Editor-Slate.dll!SButton::OnMouseButtonUp() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\input\sbutton.cpp:303]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd759c5231 UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FToLeafmostPolicy,FPointerEvent,<lambda_6c1f6b862bcfb82ea6dcab28fbcc9463> >() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:273]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75a4b4f1 UE4Editor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5707]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75a352e8 UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6312]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75a29c91 UE4Editor-Slate.dll!FSlateApplication::OnMouseUp() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6285]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e044e02 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1880]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e0326df UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2332]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e047340 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1560]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e02edd0 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:790]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffdce9163ed USER32.dll!UnknownFunction []
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffdce915de2 USER32.dll!UnknownFunction []
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e0488e9 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:130]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ff656d56980 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:4169]
+[2019.11.21-17.39.34:514][960]LogOutputDevice: Error: [Callstack] 0x00007ff656d6a91c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:173]
+[2019.11.21-17.39.34:515][960]LogOutputDevice: Error: [Callstack] 0x00007ff656d6a9fa UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:147]
+[2019.11.21-17.39.34:515][960]LogOutputDevice: Error: [Callstack] 0x00007ff656d7b92c UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:279]
+[2019.11.21-17.39.34:515][960]LogOutputDevice: Error: [Callstack] 0x00007ff656d7e60e UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\1\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2019.11.21-17.39.34:515][960]LogOutputDevice: Error: [Callstack] 0x00007ffdccdb7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.11.21-17.39.34:515][960]LogOutputDevice: Error: [Callstack] 0x00007ffdcec0ced1 ntdll.dll!UnknownFunction []
+[2019.11.21-17.39.34:515][960]LogOutputDevice: Error: 
+[2019.11.21-17.39.34:515][960]LogStats:                SubmitErrorReport -  0.000 s
+[2019.11.21-17.39.38:036][960]LogStats:                    SendNewReport -  3.522 s
+[2019.11.21-17.39.38:036][960]LogStats:             FDebug::EnsureFailed - 77.117 s
+[2019.11.21-17.39.38:117][960]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.21-17.39.38:983][960]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.867 s
+[2019.11.21-17.39.38:983][960]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.21-17.39.38:983][960]LogOutputDevice: Error: 
+[2019.11.21-17.39.38:983][960]LogOutputDevice: Error: Ensure condition failed: Pin->LinkedTo.Contains(ReferencingPin) || GEditor->Trans->IsObjectTransacting(Pin->GetOwningNode()) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/EdGraph/EdGraphPin.cpp] [Line: 1728]
+[2019.11.21-17.39.38:983][960]LogOutputDevice: Error: 
+[2019.11.21-17.39.38:983][960]LogOutputDevice: Error: Stack: 
+[2019.11.21-17.39.38:983][960]LogOutputDevice: Error: [Callstack] 0x00007ffd77b31790 UE4Editor-Engine.dll!<lambda_ff6392a17bf9012240fd653a70572a47>::operator()() [d:\build\++ue4\sync\engine\source\runtime\engine\private\edgraph\edgraphpin.cpp:1728]
+[2019.11.21-17.39.38:983][960]LogOutputDevice: Error: [Callstack] 0x00007ffd769c09da UE4Editor-Engine.dll!UEdGraphPin::ResolveReferencesToPin() [d:\build\++ue4\sync\engine\source\runtime\engine\private\edgraph\edgraphpin.cpp:1728]
+[2019.11.21-17.39.38:983][960]LogOutputDevice: Error: [Callstack] 0x00007ffd769c3138 UE4Editor-Engine.dll!UEdGraphPin::Serialize() [d:\build\++ue4\sync\engine\source\runtime\engine\private\edgraph\edgraphpin.cpp:1672]
+[2019.11.21-17.39.38:983][960]LogOutputDevice: Error: [Callstack] 0x00007ffd769c38e7 UE4Editor-Engine.dll!UEdGraphPin::SerializePin() [d:\build\++ue4\sync\engine\source\runtime\engine\private\edgraph\edgraphpin.cpp:1986]
+[2019.11.21-17.39.38:983][960]LogOutputDevice: Error: [Callstack] 0x00007ffd769c3d38 UE4Editor-Engine.dll!UEdGraphPin::SerializePinArray() [d:\build\++ue4\sync\engine\source\runtime\engine\private\edgraph\edgraphpin.cpp:1789]
+[2019.11.21-17.39.38:983][960]LogOutputDevice: Error: [Callstack] 0x00007ffd70d4d4ab UE4Editor-BlueprintGraph.dll!UK2Node::Serialize() [d:\build\++ue4\sync\engine\source\editor\blueprintgraph\private\k2node.cpp:89]
+[2019.11.21-17.39.38:983][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e43c979 UE4Editor-CoreUObject.dll!StaticDuplicateObjectEx() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\uobjectglobals.cpp:2064]
+[2019.11.21-17.39.38:983][960]LogOutputDevice: Error: [Callstack] 0x00007ffd740d4ea0 UE4Editor-UnrealEd.dll!FEdGraphUtilities::CloneGraph() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\edgraphutilities.cpp:254]
+[2019.11.21-17.39.38:983][960]LogOutputDevice: Error: [Callstack] 0x00007ffd740d4cbf UE4Editor-UnrealEd.dll!FEdGraphUtilities::CloneAndMergeGraphIn() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\edgraphutilities.cpp:297]
+[2019.11.21-17.39.38:983][960]LogOutputDevice: Error: [Callstack] 0x00007ffd6d1489ba UE4Editor-KismetCompiler.dll!FKismetCompilerContext::MergeUbergraphPagesIn() [d:\build\++ue4\sync\engine\source\editor\kismetcompiler\private\kismetcompiler.cpp:2986]
+[2019.11.21-17.39.38:983][960]LogOutputDevice: Error: [Callstack] 0x00007ffd6d123ec6 UE4Editor-KismetCompiler.dll!FKismetCompilerContext::CreateAndProcessUbergraph() [d:\build\++ue4\sync\engine\source\editor\kismetcompiler\private\kismetcompiler.cpp:3222]
+[2019.11.21-17.39.38:983][960]LogOutputDevice: Error: [Callstack] 0x00007ffd6d128ad3 UE4Editor-KismetCompiler.dll!FKismetCompilerContext::CreateFunctionList() [d:\build\++ue4\sync\engine\source\editor\kismetcompiler\private\kismetcompiler.cpp:3779]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffd6d1182ef UE4Editor-KismetCompiler.dll!FKismetCompilerContext::CompileClassLayout() [d:\build\++ue4\sync\engine\source\editor\kismetcompiler\private\kismetcompiler.cpp:4040]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffd72021bfc UE4Editor-Kismet.dll!FBlueprintCompilationManagerImpl::FlushCompilationQueueImpl() [d:\build\++ue4\sync\engine\source\editor\kismet\private\blueprintcompilationmanager.cpp:1040]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffd71fd3977 UE4Editor-Kismet.dll!FBlueprintCompilationManagerImpl::CompileSynchronouslyImpl() [d:\build\++ue4\sync\engine\source\editor\kismet\private\blueprintcompilationmanager.cpp:239]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffd745960e8 UE4Editor-UnrealEd.dll!FKismetEditorUtilities::CompileBlueprint() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\kismet2\kismet2.cpp:779]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffd720ca781 UE4Editor-Kismet.dll!FBlueprintEditor::Compile() [d:\build\++ue4\sync\engine\source\editor\kismet\private\blueprinteditor.cpp:3370]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffd720e5d78 UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,FBlueprintEditor,0,void __cdecl(void)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:369]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75a07fda UE4Editor-Slate.dll!FUICommandList::ExecuteAction() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\commands\uicommandlist.cpp:102]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75aea262 UE4Editor-Slate.dll!SToolBarButtonBlock::OnClicked() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\multibox\stoolbarbuttonblock.cpp:300]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75acccf4 UE4Editor-Slate.dll!TBaseSPMethodDelegateInstance<0,SToolBarButtonBlock,0,FReply __cdecl(void)>::Execute() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:293]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75b658b8 UE4Editor-Slate.dll!SButton::ExecuteOnClick() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\input\sbutton.cpp:379]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75b814b1 UE4Editor-Slate.dll!SButton::OnMouseButtonUp() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\input\sbutton.cpp:303]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffd759c5231 UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FToLeafmostPolicy,FPointerEvent,<lambda_6c1f6b862bcfb82ea6dcab28fbcc9463> >() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:273]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75a4b4f1 UE4Editor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5707]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75a352e8 UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6312]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75a29c91 UE4Editor-Slate.dll!FSlateApplication::OnMouseUp() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6285]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e044e02 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1880]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e0326df UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2332]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e047340 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1560]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e02edd0 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:790]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffdce9163ed USER32.dll!UnknownFunction []
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffdce915de2 USER32.dll!UnknownFunction []
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e0488e9 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:130]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ff656d56980 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:4169]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ff656d6a91c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:173]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ff656d6a9fa UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:147]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ff656d7b92c UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:279]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ff656d7e60e UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\1\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffdccdb7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: [Callstack] 0x00007ffdcec0ced1 ntdll.dll!UnknownFunction []
+[2019.11.21-17.39.38:984][960]LogOutputDevice: Error: 
+[2019.11.21-17.39.38:992][960]LogStats:                SubmitErrorReport -  0.000 s
+[2019.11.21-17.39.39:997][960]LogStats:                    SendNewReport -  1.005 s
+[2019.11.21-17.39.39:997][960]LogStats:             FDebug::EnsureFailed -  1.880 s
+[2019.11.21-17.39.39:998][960]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.21-17.39.40:431][960]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.433 s
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: 
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/EdGraph/EdGraphPin.cpp] [Line: 475]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'else' on node 'Branch' not reciprocally linked with pin 'execute' on node 'Create Widget'
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: Stack: 
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd77b30225 UE4Editor-Engine.dll!DispatchCheckVerify<bool,<lambda_14922afe52a3670dfa4e49c6b05f8887> >() [d:\build\++ue4\sync\engine\source\runtime\core\public\misc\assertionmacros.h:164]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd7698052b UE4Editor-Engine.dll!UEdGraphPin::BreakLinkTo() [d:\build\++ue4\sync\engine\source\runtime\engine\private\edgraph\edgraphpin.cpp:475]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd7697ff4e UE4Editor-Engine.dll!UEdGraphNode::BreakAllNodeLinks() [d:\build\++ue4\sync\engine\source\runtime\engine\private\edgraph\edgraphnode.cpp:405]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd6d154feb UE4Editor-KismetCompiler.dll!FKismetCompilerContext::PruneIsolatedNodes() [d:\build\++ue4\sync\engine\source\editor\kismetcompiler\private\kismetcompiler.cpp:1458]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd6d13a39f UE4Editor-KismetCompiler.dll!FKismetCompilerContext::ExpansionStep() [d:\build\++ue4\sync\engine\source\editor\kismetcompiler\private\kismetcompiler.cpp:3041]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd6d124666 UE4Editor-KismetCompiler.dll!FKismetCompilerContext::CreateAndProcessUbergraph() [d:\build\++ue4\sync\engine\source\editor\kismetcompiler\private\kismetcompiler.cpp:3306]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd6d128ad3 UE4Editor-KismetCompiler.dll!FKismetCompilerContext::CreateFunctionList() [d:\build\++ue4\sync\engine\source\editor\kismetcompiler\private\kismetcompiler.cpp:3779]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd6d1182ef UE4Editor-KismetCompiler.dll!FKismetCompilerContext::CompileClassLayout() [d:\build\++ue4\sync\engine\source\editor\kismetcompiler\private\kismetcompiler.cpp:4040]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd72021bfc UE4Editor-Kismet.dll!FBlueprintCompilationManagerImpl::FlushCompilationQueueImpl() [d:\build\++ue4\sync\engine\source\editor\kismet\private\blueprintcompilationmanager.cpp:1040]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd71fd3977 UE4Editor-Kismet.dll!FBlueprintCompilationManagerImpl::CompileSynchronouslyImpl() [d:\build\++ue4\sync\engine\source\editor\kismet\private\blueprintcompilationmanager.cpp:239]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd745960e8 UE4Editor-UnrealEd.dll!FKismetEditorUtilities::CompileBlueprint() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\kismet2\kismet2.cpp:779]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd720ca781 UE4Editor-Kismet.dll!FBlueprintEditor::Compile() [d:\build\++ue4\sync\engine\source\editor\kismet\private\blueprinteditor.cpp:3370]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd720e5d78 UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,FBlueprintEditor,0,void __cdecl(void)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:369]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75a07fda UE4Editor-Slate.dll!FUICommandList::ExecuteAction() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\commands\uicommandlist.cpp:102]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75aea262 UE4Editor-Slate.dll!SToolBarButtonBlock::OnClicked() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\multibox\stoolbarbuttonblock.cpp:300]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75acccf4 UE4Editor-Slate.dll!TBaseSPMethodDelegateInstance<0,SToolBarButtonBlock,0,FReply __cdecl(void)>::Execute() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:293]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75b658b8 UE4Editor-Slate.dll!SButton::ExecuteOnClick() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\input\sbutton.cpp:379]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75b814b1 UE4Editor-Slate.dll!SButton::OnMouseButtonUp() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\input\sbutton.cpp:303]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd759c5231 UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FToLeafmostPolicy,FPointerEvent,<lambda_6c1f6b862bcfb82ea6dcab28fbcc9463> >() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:273]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75a4b4f1 UE4Editor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5707]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75a352e8 UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6312]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75a29c91 UE4Editor-Slate.dll!FSlateApplication::OnMouseUp() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6285]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e044e02 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1880]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e0326df UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2332]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e047340 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1560]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e02edd0 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:790]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffdce9163ed USER32.dll!UnknownFunction []
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffdce915de2 USER32.dll!UnknownFunction []
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e0488e9 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:130]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ff656d56980 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:4169]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ff656d6a91c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:173]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ff656d6a9fa UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:147]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ff656d7b92c UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:279]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ff656d7e60e UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\1\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffdccdb7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.11.21-17.39.40:431][960]LogOutputDevice: Error: [Callstack] 0x00007ffdcec0ced1 ntdll.dll!UnknownFunction []
+[2019.11.21-17.39.40:432][960]LogOutputDevice: Error: 
+[2019.11.21-17.39.40:437][960]LogStats:                SubmitErrorReport -  0.000 s
+[2019.11.21-17.39.41:578][960]LogStats:                    SendNewReport -  1.141 s
+[2019.11.21-17.39.41:578][960]LogStats:             FDebug::EnsureFailed -  1.580 s
+[2019.11.21-17.39.41:579][960]LogBlueprint: Error: [Compiler MenuGamemode] Unexpected node type K2Node_CreateWidget encountered at  Create Widget
+[2019.11.21-17.39.41:580][960]LogBlueprint: Error: [Compiler MenuGamemode] Unexpected node type K2Node_CreateWidget encountered at  Create Widget
+[2019.11.21-17.39.41:856][960]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.21-17.39.42:591][960]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.735 s
+[2019.11.21-17.39.42:591][960]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.21-17.39.42:591][960]LogOutputDevice: Error: 
+[2019.11.21-17.39.42:591][960]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/EdGraph/EdGraphPin.cpp] [Line: 475]
+[2019.11.21-17.39.42:591][960]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'execute' on node 'Unknown' not reciprocally linked with pin 'else' on node 'Branch'
+[2019.11.21-17.39.42:591][960]LogOutputDevice: Error: Stack: 
+[2019.11.21-17.39.42:591][960]LogOutputDevice: Error: [Callstack] 0x00007ffd77b30225 UE4Editor-Engine.dll!DispatchCheckVerify<bool,<lambda_14922afe52a3670dfa4e49c6b05f8887> >() [d:\build\++ue4\sync\engine\source\runtime\core\public\misc\assertionmacros.h:164]
+[2019.11.21-17.39.42:591][960]LogOutputDevice: Error: [Callstack] 0x00007ffd7698052b UE4Editor-Engine.dll!UEdGraphPin::BreakLinkTo() [d:\build\++ue4\sync\engine\source\runtime\engine\private\edgraph\edgraphpin.cpp:475]
+[2019.11.21-17.39.42:591][960]LogOutputDevice: Error: [Callstack] 0x00007ffd769803f0 UE4Editor-Engine.dll!UEdGraphPin::BreakAllPinLinks() [d:\build\++ue4\sync\engine\source\runtime\engine\private\edgraph\edgraphpin.cpp:495]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd7698675b UE4Editor-Engine.dll!UEdGraphPin::DestroyImpl() [d:\build\++ue4\sync\engine\source\runtime\engine\private\edgraph\edgraphpin.cpp:1534]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd7697f581 UE4Editor-Engine.dll!UEdGraphNode::BeginDestroy() [d:\build\++ue4\sync\engine\source\runtime\engine\private\edgraph\edgraphnode.cpp:709]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e34b7c3 UE4Editor-CoreUObject.dll!UObject::ConditionalBeginDestroy() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\obj.cpp:989]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e326aec UE4Editor-CoreUObject.dll!UnhashUnreachableObjects() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\garbagecollection.cpp:1916]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e2cf8c2 UE4Editor-CoreUObject.dll!CollectGarbageInternal() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\garbagecollection.cpp:1859]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e2cea0a UE4Editor-CoreUObject.dll!CollectGarbage() [d:\build\++ue4\sync\engine\source\runtime\coreuobject\private\uobject\garbagecollection.cpp:1946]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd71fd3b2d UE4Editor-Kismet.dll!FBlueprintCompilationManagerImpl::CompileSynchronouslyImpl() [d:\build\++ue4\sync\engine\source\editor\kismet\private\blueprintcompilationmanager.cpp:271]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd745960e8 UE4Editor-UnrealEd.dll!FKismetEditorUtilities::CompileBlueprint() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\kismet2\kismet2.cpp:779]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd720ca781 UE4Editor-Kismet.dll!FBlueprintEditor::Compile() [d:\build\++ue4\sync\engine\source\editor\kismet\private\blueprinteditor.cpp:3370]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd720e5d78 UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,FBlueprintEditor,0,void __cdecl(void)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:369]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75a07fda UE4Editor-Slate.dll!FUICommandList::ExecuteAction() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\commands\uicommandlist.cpp:102]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75aea262 UE4Editor-Slate.dll!SToolBarButtonBlock::OnClicked() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\multibox\stoolbarbuttonblock.cpp:300]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75acccf4 UE4Editor-Slate.dll!TBaseSPMethodDelegateInstance<0,SToolBarButtonBlock,0,FReply __cdecl(void)>::Execute() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:293]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75b658b8 UE4Editor-Slate.dll!SButton::ExecuteOnClick() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\input\sbutton.cpp:379]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75b814b1 UE4Editor-Slate.dll!SButton::OnMouseButtonUp() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\input\sbutton.cpp:303]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd759c5231 UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FToLeafmostPolicy,FPointerEvent,<lambda_6c1f6b862bcfb82ea6dcab28fbcc9463> >() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:273]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75a4b4f1 UE4Editor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5707]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75a352e8 UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6312]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd75a29c91 UE4Editor-Slate.dll!FSlateApplication::OnMouseUp() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6285]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e044e02 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1880]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e0326df UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2332]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e047340 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1560]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e02edd0 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:790]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffdce9163ed USER32.dll!UnknownFunction []
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffdce915de2 USER32.dll!UnknownFunction []
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffd8e0488e9 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:130]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ff656d56980 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:4169]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ff656d6a91c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:173]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ff656d6a9fa UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:147]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ff656d7b92c UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:279]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ff656d7e60e UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\1\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffdccdb7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: [Callstack] 0x00007ffdcec0ced1 ntdll.dll!UnknownFunction []
+[2019.11.21-17.39.42:592][960]LogOutputDevice: Error: 
+[2019.11.21-17.39.42:598][960]LogStats:                SubmitErrorReport -  0.000 s
+[2019.11.21-17.39.43:701][960]LogStats:                    SendNewReport -  1.102 s
+[2019.11.21-17.39.43:701][960]LogStats:             FDebug::EnsureFailed -  1.845 s
+[2019.11.21-17.39.43:716][960]LogUObjectHash: Compacting FUObjectHashTables data took  13.45ms
+[2019.11.21-17.39.43:968][961]LogUObjectHash: Compacting FUObjectHashTables data took   7.11ms
+[2019.11.21-17.39.43:968][961]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenuLevel' took 0.050
+[2019.11.21-17.39.43:976][961]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MenuGamemode] ([1] browsable assets)...
+[2019.11.21-17.39.43:976][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MenuGamemode]
+[2019.11.21-17.39.44:139][961]LogSavePackage: Moving '../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/MenuGamemode_Auto13689C29440DB3EC965A54C94FAB884FB.tmp' to '../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/Autosaves/Game/Blueprints/MenuGamemode_Auto1.uasset'
+[2019.11.21-17.39.44:144][961]LogFileHelpers: Auto-saving content packages took 0.175
+[2019.11.21-17.40.04:720][737]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.21-17.40.05:541][737]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.820 s
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: 
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/EdGraph/EdGraphPin.cpp] [Line: 475]
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'execute' on node 'Create Widget' not reciprocally linked with pin 'else' on node 'Branch'
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: Stack: 
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ffd77b30225 UE4Editor-Engine.dll!DispatchCheckVerify<bool,<lambda_14922afe52a3670dfa4e49c6b05f8887> >() [d:\build\++ue4\sync\engine\source\runtime\core\public\misc\assertionmacros.h:164]
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ffd7698052b UE4Editor-Engine.dll!UEdGraphPin::BreakLinkTo() [d:\build\++ue4\sync\engine\source\runtime\engine\private\edgraph\edgraphpin.cpp:475]
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ffd769803f0 UE4Editor-Engine.dll!UEdGraphPin::BreakAllPinLinks() [d:\build\++ue4\sync\engine\source\runtime\engine\private\edgraph\edgraphpin.cpp:495]
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ffd769f4872 UE4Editor-Engine.dll!UEdGraphSchema::BreakPinLinks() [d:\build\++ue4\sync\engine\source\runtime\engine\private\edgraph\edgraphschema.cpp:583]
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ffd70cad355 UE4Editor-BlueprintGraph.dll!UEdGraphSchema_K2::BreakPinLinks() [d:\build\++ue4\sync\engine\source\editor\blueprintgraph\private\edgraphschema_k2.cpp:4548]
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ffd6fa5473a UE4Editor-GraphEditor.dll!SGraphPin::OnPinMouseDown() [d:\build\++ue4\sync\engine\source\editor\grapheditor\private\sgraphpin.cpp:429]
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ffd6fa447ae UE4Editor-GraphEditor.dll!SGraphPanel::OnMouseButtonDown() [d:\build\++ue4\sync\engine\source\editor\grapheditor\private\sgraphpanel.cpp:627]
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ffd759c4220 UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FBubblePolicy,FPointerEvent,<lambda_6264868de66784e8427f79716494ab5b> >() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:273]
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ffd75a498a1 UE4Editor-Slate.dll!FSlateApplication::RoutePointerDownEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5596]
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ffd75a34c9c UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonDownEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5549]
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ffd75a29768 UE4Editor-Slate.dll!FSlateApplication::OnMouseDown() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5462]
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ffd8e044e53 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1888]
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ffd8e0326df UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2332]
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ffd8e047340 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1560]
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ffd8e02edd0 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:790]
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ffdce9163ed USER32.dll!UnknownFunction []
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ffdce915de2 USER32.dll!UnknownFunction []
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ffd8e0488e9 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:130]
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ff656d56980 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:4169]
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ff656d6a91c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:173]
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ff656d6a9fa UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:147]
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ff656d7b92c UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:279]
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ff656d7e60e UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\1\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ffdccdb7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: [Callstack] 0x00007ffdcec0ced1 ntdll.dll!UnknownFunction []
+[2019.11.21-17.40.05:541][737]LogOutputDevice: Error: 
+[2019.11.21-17.40.05:545][737]LogStats:             FDebug::EnsureFailed -  0.825 s
+[2019.11.21-17.40.08:641][986]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.21-17.40.08:849][986]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.208 s
+[2019.11.21-17.40.08:849][986]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.21-17.40.08:849][986]LogOutputDevice: Error: 
+[2019.11.21-17.40.08:849][986]LogOutputDevice: Error: Ensure condition failed: !ToPin->LinkedTo.Contains(this) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/EdGraph/EdGraphPin.cpp] [Line: 449]
+[2019.11.21-17.40.08:849][986]LogOutputDevice: Error: UEdGraphPin::MakeLinkTo Pin 'execute' on node 'Create Widget' is linked with pin 'else' on node 'Branch'
+[2019.11.21-17.40.08:849][986]LogOutputDevice: Error: Stack: 
+[2019.11.21-17.40.08:849][986]LogOutputDevice: Error: [Callstack] 0x00007ffd77b30b12 UE4Editor-Engine.dll!DispatchCheckVerify<bool,<lambda_a667f07e6ae1e0a5732a4941264fe376> >() [d:\build\++ue4\sync\engine\source\runtime\core\public\misc\assertionmacros.h:164]
+[2019.11.21-17.40.08:849][986]LogOutputDevice: Error: [Callstack] 0x00007ffd769b320a UE4Editor-Engine.dll!UEdGraphPin::MakeLinkTo() [d:\build\++ue4\sync\engine\source\runtime\engine\private\edgraph\edgraphpin.cpp:449]
+[2019.11.21-17.40.08:849][986]LogOutputDevice: Error: [Callstack] 0x00007ffd76a3534f UE4Editor-Engine.dll!UEdGraphSchema::TryCreateConnection() [d:\build\++ue4\sync\engine\source\runtime\engine\private\edgraph\edgraphschema.cpp:454]
+[2019.11.21-17.40.08:850][986]LogOutputDevice: Error: [Callstack] 0x00007ffd70d052ea UE4Editor-BlueprintGraph.dll!UEdGraphSchema_K2::TryCreateConnection() [d:\build\++ue4\sync\engine\source\editor\blueprintgraph\private\edgraphschema_k2.cpp:2392]
+[2019.11.21-17.40.08:850][986]LogOutputDevice: Error: [Callstack] 0x00007ffd6f9b220e UE4Editor-GraphEditor.dll!FDragConnection::DroppedOnPin() [d:\build\++ue4\sync\engine\source\editor\grapheditor\private\dragconnection.cpp:212]
+[2019.11.21-17.40.08:850][986]LogOutputDevice: Error: [Callstack] 0x00007ffd6fa33fff UE4Editor-GraphEditor.dll!SGraphPin::OnDrop() [d:\build\++ue4\sync\engine\source\editor\grapheditor\private\sgraphpin.cpp:779]
+[2019.11.21-17.40.08:850][986]LogOutputDevice: Error: [Callstack] 0x00007ffd759e8508 UE4Editor-Slate.dll!<lambda_7e374ce6c4046b3b1535ce3e19e607d6>::operator()() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5766]
+[2019.11.21-17.40.08:850][986]LogOutputDevice: Error: [Callstack] 0x00007ffd759c4568 UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FBubblePolicy,FPointerEvent,<lambda_7e374ce6c4046b3b1535ce3e19e607d6> >() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:273]
+[2019.11.21-17.40.08:850][986]LogOutputDevice: Error: [Callstack] 0x00007ffd75a4b6f1 UE4Editor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5762]
+[2019.11.21-17.40.08:850][986]LogOutputDevice: Error: [Callstack] 0x00007ffd75a352e8 UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6312]
+[2019.11.21-17.40.08:850][986]LogOutputDevice: Error: [Callstack] 0x00007ffd75a29c91 UE4Editor-Slate.dll!FSlateApplication::OnMouseUp() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6285]
+[2019.11.21-17.40.08:850][986]LogOutputDevice: Error: [Callstack] 0x00007ffd8e044e02 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1880]
+[2019.11.21-17.40.08:850][986]LogOutputDevice: Error: [Callstack] 0x00007ffd8e0326df UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2332]
+[2019.11.21-17.40.08:850][986]LogOutputDevice: Error: [Callstack] 0x00007ffd8e047340 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1560]
+[2019.11.21-17.40.08:851][986]LogOutputDevice: Error: [Callstack] 0x00007ffd8e02edd0 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:790]
+[2019.11.21-17.40.08:851][986]LogOutputDevice: Error: [Callstack] 0x00007ffdce9163ed USER32.dll!UnknownFunction []
+[2019.11.21-17.40.08:851][986]LogOutputDevice: Error: [Callstack] 0x00007ffdce915de2 USER32.dll!UnknownFunction []
+[2019.11.21-17.40.08:851][986]LogOutputDevice: Error: [Callstack] 0x00007ffd8e0488e9 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:130]
+[2019.11.21-17.40.08:851][986]LogOutputDevice: Error: [Callstack] 0x00007ff656d56980 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:4169]
+[2019.11.21-17.40.08:851][986]LogOutputDevice: Error: [Callstack] 0x00007ff656d6a91c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:173]
+[2019.11.21-17.40.08:851][986]LogOutputDevice: Error: [Callstack] 0x00007ff656d6a9fa UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:147]
+[2019.11.21-17.40.08:851][986]LogOutputDevice: Error: [Callstack] 0x00007ff656d7b92c UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:279]
+[2019.11.21-17.40.08:851][986]LogOutputDevice: Error: [Callstack] 0x00007ff656d7e60e UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\1\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2019.11.21-17.40.08:851][986]LogOutputDevice: Error: [Callstack] 0x00007ffdccdb7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.11.21-17.40.08:851][986]LogOutputDevice: Error: [Callstack] 0x00007ffdcec0ced1 ntdll.dll!UnknownFunction []
+[2019.11.21-17.40.08:851][986]LogOutputDevice: Error: 
+[2019.11.21-17.40.08:860][986]LogStats:             FDebug::EnsureFailed -  0.219 s
+[2019.11.21-17.40.11:470][198]BlueprintLog: New page: Compile MenuGamemode
+[2019.11.21-17.40.11:486][198]LogBlueprint: Error: [Compiler MenuGamemode] COMPILER ERROR: failed building connection with 'Replace existing output connections' at  Create Widget
+[2019.11.21-17.40.11:727][198]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2019.11.21-17.40.21:707][ 12]BlueprintLog: New page: Compile MenuGamemode
+[2019.11.21-17.40.21:946][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2019.11.21-17.40.25:540][308]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.21-17.40.25:567][308]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.11.21-17.40.25:567][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.21-17.40.25:567][308]PIE: New page: PIE session: MainMenuLevel (Nov 21, 2019, 7:40:25 AM)
+[2019.11.21-17.40.25:567][308]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2019.11.21-17.40.25:568][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001037s)
+[2019.11.21-17.40.25:569][308]LogAIModule: Creating AISystem for world MainMenuLevel
+[2019.11.21-17.40.25:569][308]LogPlayLevel: PIE: World Init took: (0.001219s)
+[2019.11.21-17.40.25:569][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002370s)
+[2019.11.21-17.40.25:610][308]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2019.11.21-17.40.25:615][308]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.21-17.40.25:643][308]LogInit: FAudioDevice initialized.
+[2019.11.21-17.40.25:649][308]LogLoad: Game class is 'MenuGamemode_C'
+[2019.11.21-17.40.25:649][308]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2019.11.21-12.40.25
+[2019.11.21-17.40.25:649][308]LogWorld: Bringing up level for play took: 0.000297
+[2019.11.21-17.40.25:650][308]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.11.21-17.40.25:652][308]LogScript: Warning: Accessed None trying to read property MainLevelWidget
+	MenuGamemode_C /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel:PersistentLevel.MenuGamemode_C_0
+	Function /Game/Blueprints/MenuGamemode.MenuGamemode_C:ExecuteUbergraph_MenuGamemode:014C
+[2019.11.21-17.40.25:652][308]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MainLevelWidget". Blueprint:  MenuGamemode Function:  Execute Ubergraph Menu Gamemode Graph:  EventGraph Node:  Add to Viewport
+[2019.11.21-17.40.25:652][308]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenuLevel -0.634
+[2019.11.21-17.40.25:653][308]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.11.21-17.40.26:569][399]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.11.21-17.40.26:569][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-17.40.26:569][399]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2019.11.21-17.40.26:570][399]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.21-17.40.26:581][399]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.21-17.40.26:581][399]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.11.21-17.40.26:629][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-17.40.26:634][399]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.11.21-17.40.26:675][401]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.11.21-17.40.28:712][561]LogSlate: Window 'Message Log' being destroyed
+[2019.11.21-17.40.28:715][561]LogSlate: Window 'Message Log' being destroyed
+[2019.11.21-17.41.10:007][148]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2019.11.21-17.41.10:042][148]LogSavePackage: Moving '../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/MenuGamemode6E1C3D5144610669BE3FCFADB1AF3554.tmp' to '../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Content/Blueprints/MenuGamemode.uasset'
+[2019.11.21-17.41.37:131][523]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.21-17.41.40:812][696]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.21-17.41.43:791][901]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.21-17.42.03:927][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2019.11.21-17.42.03:928][ 79]LogMetaData: Removing '/Game/Blueprints/WinGamemode.WinGamemode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2019.11.21-17.42.03:928][ 79]LogMetaData: Removing '/Game/Blueprints/WinGamemode.SKEL_WinGamemode_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2019.11.21-17.42.03:928][ 79]LogMetaData: Removing '/Game/Blueprints/WinGamemode.WinGamemode_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2019.11.21-17.42.03:928][ 79]LogMetaData: Removing '/Game/Blueprints/WinGamemode.WinGamemode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2019.11.21-17.42.03:928][ 79]LogMetaData: Removing '/Game/Blueprints/WinGamemode.WinGamemode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2019.11.21-17.42.03:961][ 79]LogSavePackage: Moving '../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/WinGamemodeD4ED84F741DB97B0D0901F818D1379E4.tmp' to '../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Content/Blueprints/WinGamemode.uasset'
+[2019.11.21-17.42.04:183][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2019.11.21-17.42.04:233][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.11.21-17.42.04:271][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.11.21-17.42.10:791][689]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2019.11.21-17.42.10:792][689]LogMetaData: Removing '/Game/Blueprints/LoseGamemode.LoseGamemode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/NewBlueprint1.PackageMetaData'
+[2019.11.21-17.42.10:792][689]LogMetaData: Removing '/Game/Blueprints/LoseGamemode.SKEL_LoseGamemode_C' ref from Metadata '/Game/Blueprints/NewBlueprint1.PackageMetaData'
+[2019.11.21-17.42.10:792][689]LogMetaData: Removing '/Game/Blueprints/LoseGamemode.LoseGamemode_C' ref from Metadata '/Game/Blueprints/NewBlueprint1.PackageMetaData'
+[2019.11.21-17.42.10:792][689]LogMetaData: Removing '/Game/Blueprints/LoseGamemode.LoseGamemode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/NewBlueprint1.PackageMetaData'
+[2019.11.21-17.42.10:792][689]LogMetaData: Removing '/Game/Blueprints/LoseGamemode.LoseGamemode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/NewBlueprint1.PackageMetaData'
+[2019.11.21-17.42.10:821][689]LogSavePackage: Moving '../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/LoseGamemodeE7714C104FDA1654233BF08317448645.tmp' to '../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Content/Blueprints/LoseGamemode.uasset'
+[2019.11.21-17.42.11:031][689]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2019.11.21-17.42.11:074][689]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.11.21-17.42.11:113][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.11.21-17.42.18:919][409]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2019.11.21-17.42.18:920][409]LogMetaData: Removing '/Game/Blueprints/CreditsGamemode.CreditsGamemode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/NewBlueprint2.PackageMetaData'
+[2019.11.21-17.42.18:920][409]LogMetaData: Removing '/Game/Blueprints/CreditsGamemode.SKEL_CreditsGamemode_C' ref from Metadata '/Game/Blueprints/NewBlueprint2.PackageMetaData'
+[2019.11.21-17.42.18:920][409]LogMetaData: Removing '/Game/Blueprints/CreditsGamemode.CreditsGamemode_C' ref from Metadata '/Game/Blueprints/NewBlueprint2.PackageMetaData'
+[2019.11.21-17.42.18:920][409]LogMetaData: Removing '/Game/Blueprints/CreditsGamemode.CreditsGamemode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/NewBlueprint2.PackageMetaData'
+[2019.11.21-17.42.18:920][409]LogMetaData: Removing '/Game/Blueprints/CreditsGamemode.CreditsGamemode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/NewBlueprint2.PackageMetaData'
+[2019.11.21-17.42.18:951][409]LogSavePackage: Moving '../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/CreditsGamemode9B0ED72641048A45EB769082A3E9D5C4.tmp' to '../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Content/Blueprints/CreditsGamemode.uasset'
+[2019.11.21-17.42.19:162][409]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2019.11.21-17.42.19:203][409]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2019.11.21-17.42.19:242][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.11.21-17.42.20:936][564]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/CreditsGamemode.CreditsGamemode
+[2019.11.21-17.42.34:190][637]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.21-17.42.39:231][185]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2019.11.21-17.42.39:281][185]LogSavePackage: Moving '../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/CreditsGamemodeD2BEB73C46828E00EB777E954154FDFD.tmp' to '../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Content/Blueprints/CreditsGamemode.uasset'
+[2019.11.21-17.43.44:615][512]BlueprintLog: New page: Compile CreditsGamemode
+[2019.11.21-17.43.44:867][512]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2019.11.21-17.43.45:249][540]LogSavePackage: Moving '../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/CreditsGamemodeDB2996EA43ADDA068140FCA14D33B26F.tmp' to '../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Content/Blueprints/CreditsGamemode.uasset'
+[2019.11.21-17.43.49:735][934]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/LoseGamemode.LoseGamemode
+[2019.11.21-17.43.52:655][ 31]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/WinGamemode.WinGamemode
+[2019.11.21-17.44.43:169][565]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.21-17.45.04:247][480]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2019.11.21-17.45.04:284][480]LogSavePackage: Moving '../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/WinGamemode4B1E5C0A4D4A26223D7E7882CEFF9FD8.tmp' to '../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Content/Blueprints/WinGamemode.uasset'
+[2019.11.21-17.45.08:409][818]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.11.21-17.45.48:233][317]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2019.11.21-17.45.48:269][317]LogSavePackage: Moving '../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/LoseGamemodeA671513C430E1B201C7559AB524013C4.tmp' to '../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Content/Blueprints/LoseGamemode.uasset'
+[2019.11.21-17.45.50:876][542]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.21-17.45.50:913][542]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.11.21-17.45.50:914][542]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.21-17.45.50:914][542]LogPlayLevel: [PlayLevel] Compiling MenuGamemode before play...
+[2019.11.21-17.45.51:116][542]LogPlayLevel: [PlayLevel] Compiling WinGamemode before play...
+[2019.11.21-17.45.51:120][542]LogPlayLevel: [PlayLevel] Compiling LoseGamemode before play...
+[2019.11.21-17.45.51:418][542]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2019.11.21-17.45.51:418][542]LogPlayLevel: PlayLevel: Blueprint regeneration took 504 ms (3 blueprints)
+[2019.11.21-17.45.51:418][542]PIE: New page: PIE session: MainMenuLevel (Nov 21, 2019, 7:45:51 AM)
+[2019.11.21-17.45.51:419][542]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2019.11.21-17.45.51:420][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000908s)
+[2019.11.21-17.45.51:421][542]LogAIModule: Creating AISystem for world MainMenuLevel
+[2019.11.21-17.45.51:421][542]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2019.11.21-17.45.51:421][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001924s)
+[2019.11.21-17.45.51:466][542]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.11.21-17.45.51:472][542]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.21-17.45.51:499][542]LogInit: FAudioDevice initialized.
+[2019.11.21-17.45.51:507][542]LogLoad: Game class is 'MenuGamemode_C'
+[2019.11.21-17.45.51:507][542]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2019.11.21-12.45.51
+[2019.11.21-17.45.51:507][542]LogWorld: Bringing up level for play took: 0.000274
+[2019.11.21-17.45.51:507][542]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.11.21-17.45.51:511][542]LogScript: Warning: Accessed None trying to read property MainLevelWidget
+	MenuGamemode_C /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel:PersistentLevel.MenuGamemode_C_0
+	Function /Game/Blueprints/MenuGamemode.MenuGamemode_C:ExecuteUbergraph_MenuGamemode:0057
+[2019.11.21-17.45.51:511][542]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MainLevelWidget". Blueprint:  MenuGamemode Function:  Execute Ubergraph Menu Gamemode Graph:  EventGraph Node:  Add to Viewport
+[2019.11.21-17.45.51:511][542]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenuLevel 1.21
+[2019.11.21-17.45.51:511][542]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.11.21-17.45.52:647][655]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.11.21-17.45.52:647][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-17.45.52:647][655]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2019.11.21-17.45.52:647][655]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.21-17.45.52:658][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.21-17.45.52:658][655]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.11.21-17.45.52:708][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-17.45.52:713][655]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.11.21-17.45.52:750][656]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.11.21-17.46.41:510][315]BlueprintLog: New page: Compile MenuGamemode
+[2019.11.21-17.46.41:761][315]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2019.11.21-17.46.42:071][335]LogSavePackage: Moving '../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Saved/MenuGamemode58CF3A1A46B6A1507B35FB99D239E1F5.tmp' to '../../../../../../Users/petin/Documents/GitHub/CIT447-Group-Project/CIT447_SpaceColon_P3/Content/Blueprints/MenuGamemode.uasset'
+[2019.11.21-17.46.44:613][533]LogSlate: Window 'Message Log' being destroyed
+[2019.11.21-17.46.44:617][533]LogSlate: Window 'Message Log' being destroyed
+[2019.11.21-17.46.45:653][631]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.21-17.46.45:690][631]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.11.21-17.46.45:690][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.21-17.46.45:690][631]PIE: New page: PIE session: MainMenuLevel (Nov 21, 2019, 7:46:45 AM)
+[2019.11.21-17.46.45:690][631]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2019.11.21-17.46.45:691][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000999s)
+[2019.11.21-17.46.45:692][631]LogAIModule: Creating AISystem for world MainMenuLevel
+[2019.11.21-17.46.45:692][631]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2019.11.21-17.46.45:692][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002037s)
+[2019.11.21-17.46.45:741][631]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2019.11.21-17.46.45:746][631]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.21-17.46.45:772][631]LogInit: FAudioDevice initialized.
+[2019.11.21-17.46.45:783][631]LogLoad: Game class is 'MenuGamemode_C'
+[2019.11.21-17.46.45:784][631]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2019.11.21-12.46.45
+[2019.11.21-17.46.45:784][631]LogWorld: Bringing up level for play took: 0.000334
+[2019.11.21-17.46.45:784][631]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.11.21-17.46.45:861][631]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenuLevel -0.441
+[2019.11.21-17.46.45:861][631]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.11.21-17.46.49:103][936]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.11.21-17.46.49:103][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-17.46.49:103][936]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2019.11.21-17.46.49:103][936]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.21-17.46.49:127][936]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.21-17.46.49:128][936]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel' with GeneratedClass '/Game/Levels/MainMenuLevel.MainMenuLevel_C' with ClassGeneratedBy '/Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel'
+[2019.11.21-17.46.49:180][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.21-17.46.49:226][936]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2019.11.21-17.46.49:238][937]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.11.21-17.46.51:082][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.11.21-17.46.51:402][118]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.11.21-17.46.51:419][118]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.11.21-17.46.51:481][118]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.11.21-17.46.51:488][118]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.11.21-17.46.51:521][118]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.21-17.46.51:521][118]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.11.21-17.46.51:569][118]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.21-17.46.51:569][118]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.11.21-17.46.51:612][118]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.21-17.46.51:612][118]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.11.21-17.46.51:653][118]LogSlate: Window 'LoseGamemode' being destroyed
+[2019.11.21-17.46.51:657][118]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.21-17.46.51:657][118]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.11.21-17.46.51:695][118]LogSlate: Window 'CIT447_SpaceColon_P3 - Unreal Editor' being destroyed
+[2019.11.21-17.46.51:696][118]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.21-17.46.51:793][119]Cmd: QUIT_EDITOR
+[2019.11.21-17.46.52:494][119]LogExit: Preparing to exit.
+[2019.11.21-17.46.53:018][119]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.11.21-17.46.53:027][119]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.21-17.46.53:028][119]LogExit: Editor shut down
+[2019.11.21-17.46.53:029][119]LogExit: Transaction tracking system shut down
+[2019.11.21-17.46.53:346][119]LogExit: Object subsystem successfully closed.
+[2019.11.21-17.46.53:363][119]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.21-17.46.53:425][119]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (676)
+[2019.11.21-17.46.53:425][119]LogModuleManager: Shutting down and abandoning module Voice (674)
+[2019.11.21-17.46.53:425][119]LogModuleManager: Shutting down and abandoning module SequencerWidgets (672)
+[2019.11.21-17.46.53:425][119]LogModuleManager: Shutting down and abandoning module BlueprintGraph (670)
+[2019.11.21-17.46.53:425][119]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2019.11.21-17.46.53:425][119]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2019.11.21-17.46.53:425][119]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2019.11.21-17.46.53:425][119]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2019.11.21-17.46.53:425][119]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2019.11.21-17.46.53:425][119]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2019.11.21-17.46.53:425][119]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.11.21-17.46.53:426][119]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.11.21-17.46.53:427][119]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.11.21-17.46.53:427][119]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.11.21-17.46.53:427][119]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.11.21-17.46.53:427][119]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.11.21-17.46.53:427][119]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.11.21-17.46.53:427][119]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.11.21-17.46.53:427][119]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.11.21-17.46.53:427][119]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.11.21-17.46.53:427][119]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.11.21-17.46.53:427][119]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.11.21-17.46.54:865][119]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.11.21-17.46.54:865][119]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.11.21-17.46.54:865][119]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.11.21-17.46.54:865][119]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.11.21-17.46.54:865][119]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.11.21-17.46.54:865][119]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.11.21-17.46.54:866][119]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.11.21-17.46.54:866][119]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.11.21-17.46.54:866][119]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.11.21-17.46.54:866][119]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.11.21-17.46.54:866][119]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.11.21-17.46.54:866][119]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.11.21-17.46.54:866][119]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.11.21-17.46.54:866][119]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.11.21-17.46.54:866][119]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.11.21-17.46.54:866][119]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.11.21-17.46.54:867][119]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.11.21-17.46.54:867][119]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.11.21-17.46.54:867][119]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.11.21-17.46.54:867][119]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.11.21-17.46.54:867][119]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.11.21-17.46.54:867][119]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.11.21-17.46.54:867][119]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.11.21-17.46.54:923][119]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.11.21-17.46.54:923][119]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.11.21-17.46.54:923][119]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.11.21-17.46.54:923][119]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.11.21-17.46.54:923][119]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.11.21-17.46.54:923][119]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.11.21-17.46.54:923][119]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.11.21-17.46.54:923][119]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.11.21-17.46.54:923][119]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.11.21-17.46.54:923][119]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.11.21-17.46.54:923][119]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.11.21-17.46.54:935][119]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.11.21-17.46.54:935][119]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.11.21-17.46.54:935][119]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.11.21-17.46.54:935][119]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.11.21-17.46.54:937][119]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.11.21-17.46.54:937][119]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.11.21-17.46.54:937][119]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.11.21-17.46.54:937][119]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.11.21-17.46.54:937][119]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.11.21-17.46.54:937][119]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.11.21-17.46.54:937][119]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.11.21-17.46.54:937][119]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.11.21-17.46.54:937][119]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.11.21-17.46.54:937][119]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.11.21-17.46.54:937][119]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.11.21-17.46.54:938][119]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.11.21-17.46.54:938][119]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.11.21-17.46.54:938][119]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.11.21-17.46.54:938][119]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.11.21-17.46.54:938][119]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.11.21-17.46.54:938][119]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.11.21-17.46.54:938][119]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.11.21-17.46.54:938][119]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.11.21-17.46.54:938][119]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.11.21-17.46.54:938][119]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.11.21-17.46.54:938][119]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.11.21-17.46.54:941][119]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.11.21-17.46.55:010][119]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.11.21-17.46.55:010][119]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.11.21-17.46.55:010][119]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.11.21-17.46.55:010][119]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.11.21-17.46.55:010][119]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.11.21-17.46.55:010][119]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.11.21-17.46.55:010][119]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.11.21-17.46.55:010][119]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.11.21-17.46.55:010][119]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.11.21-17.46.55:010][119]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.11.21-17.46.55:010][119]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.11.21-17.46.55:010][119]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.11.21-17.46.55:010][119]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.11.21-17.46.55:010][119]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.11.21-17.46.55:010][119]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.11.21-17.46.55:011][119]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.11.21-17.46.55:012][119]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.11.21-17.46.55:012][119]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.11.21-17.46.55:012][119]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.11.21-17.46.55:012][119]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.11.21-17.46.55:012][119]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.11.21-17.46.55:012][119]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.11.21-17.46.55:012][119]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.11.21-17.46.55:012][119]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.11.21-17.46.55:012][119]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.11.21-17.46.55:012][119]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.11.21-17.46.55:012][119]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.11.21-17.46.55:012][119]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.11.21-17.46.55:012][119]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.11.21-17.46.55:012][119]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.11.21-17.46.55:012][119]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.11.21-17.46.55:012][119]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.11.21-17.46.55:012][119]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.11.21-17.46.55:012][119]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.11.21-17.46.55:012][119]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.11.21-17.46.55:012][119]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.11.21-17.46.55:012][119]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.11.21-17.46.55:013][119]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.11.21-17.46.55:013][119]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.11.21-17.46.55:013][119]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.11.21-17.46.55:114][119]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.11.21-17.46.55:214][119]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.11.21-17.46.55:214][119]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.11.21-17.46.55:214][119]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.11.21-17.46.55:214][119]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.11.21-17.46.55:214][119]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.11.21-17.46.55:214][119]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.21-17.46.55:214][119]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.11.21-17.46.55:214][119]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.11.21-17.46.55:214][119]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.11.21-17.46.55:214][119]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.11.21-17.46.55:214][119]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.11.21-17.46.55:214][119]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.11.21-17.46.55:214][119]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.11.21-17.46.55:214][119]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.11.21-17.46.55:215][119]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.11.21-17.46.55:215][119]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.11.21-17.46.55:215][119]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.11.21-17.46.55:215][119]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.11.21-17.46.55:219][119]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.11.21-17.46.55:220][119]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.11.21-17.46.55:220][119]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.11.21-17.46.55:220][119]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.11.21-17.46.55:220][119]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.11.21-17.46.55:220][119]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.11.21-17.46.55:222][119]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.11.21-17.46.55:222][119]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.11.21-17.46.55:222][119]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.11.21-17.46.55:222][119]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.11.21-17.46.55:222][119]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.11.21-17.46.55:222][119]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.11.21-17.46.55:222][119]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.11.21-17.46.55:222][119]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.11.21-17.46.55:222][119]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.11.21-17.46.55:222][119]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.11.21-17.46.55:222][119]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.11.21-17.46.55:222][119]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.11.21-17.46.55:222][119]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.11.21-17.46.55:222][119]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.11.21-17.46.55:222][119]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.11.21-17.46.55:223][119]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.11.21-17.46.55:223][119]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.11.21-17.46.55:223][119]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.11.21-17.46.55:223][119]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.11.21-17.46.55:223][119]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.11.21-17.46.55:223][119]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.11.21-17.46.55:223][119]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.11.21-17.46.55:223][119]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.11.21-17.46.55:224][119]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.11.21-17.46.55:224][119]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.11.21-17.46.55:224][119]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.11.21-17.46.55:224][119]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.11.21-17.46.55:224][119]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.11.21-17.46.55:224][119]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.11.21-17.46.55:224][119]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.11.21-17.46.55:224][119]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.11.21-17.46.55:224][119]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.11.21-17.46.55:224][119]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.11.21-17.46.55:224][119]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.11.21-17.46.55:224][119]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.11.21-17.46.55:224][119]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.11.21-17.46.55:225][119]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.11.21-17.46.55:225][119]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.11.21-17.46.55:225][119]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.11.21-17.46.55:225][119]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.11.21-17.46.55:260][119]LogDerivedDataCache: Shutdown
+[2019.11.21-17.46.55:260][119]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.11.21-17.46.55:260][119]LogXGEController: Cleaning working directory: C:/Users/petin/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.21-17.46.55:262][119]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.11.21-17.46.55:262][119]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.11.21-17.46.55:262][119]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.11.21-17.46.55:262][119]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.11.21-17.46.55:262][119]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.11.21-17.46.55:262][119]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.11.21-17.46.55:262][119]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.11.21-17.46.55:262][119]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.11.21-17.46.55:262][119]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.11.21-17.46.55:262][119]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.11.21-17.46.55:262][119]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.11.21-17.46.55:262][119]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.11.21-17.46.55:262][119]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.11.21-17.46.55:262][119]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.11.21-17.46.55:262][119]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.11.21-17.46.55:262][119]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.11.21-17.46.55:262][119]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.11.21-17.46.55:263][119]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.11.21-17.46.55:263][119]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.11.21-17.46.55:263][119]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.11.21-17.46.55:263][119]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.11.21-17.46.55:263][119]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.11.21-17.46.55:266][119]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.11.21-17.46.55:266][119]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.11.21-17.46.55:266][119]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.11.21-17.46.55:266][119]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.11.21-17.46.55:272][119]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.11.21-17.46.55:272][119]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.11.21-17.46.55:272][119]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.11.21-17.46.55:272][119]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.11.21-17.46.55:272][119]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.11.21-17.46.55:273][119]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.11.21-17.46.55:273][119]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.11.21-17.46.55:273][119]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.11.21-17.46.55:273][119]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.11.21-17.46.55:273][119]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.11.21-17.46.55:273][119]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.11.21-17.46.55:273][119]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.11.21-17.46.55:273][119]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.11.21-17.46.55:273][119]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.11.21-17.46.55:273][119]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.11.21-17.46.55:273][119]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.11.21-17.46.55:273][119]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.21-17.46.55:273][119]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.11.21-17.46.55:273][119]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.11.21-17.46.55:273][119]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.11.21-17.46.55:273][119]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.11.21-17.46.55:273][119]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.11.21-17.46.55:274][119]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.11.21-17.46.55:274][119]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.11.21-17.46.55:294][119]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.11.21-17.46.55:295][119]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.11.21-17.46.55:295][119]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEE4F99C9-4C82-DA73-CA85-6C9991AAFF90%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=52cc49f045cef6d35bb1b28385d8af74%7Ca3980ca0b16648528221b9251121bb28%7Cbef2437d-8d29-4344-ae32-e773caca5aa2&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.21-17.46.55:305][119]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.11.21-17.46.55:308][119]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.11.21-17.46.55:310][119]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.11.21-17.46.55:312][119]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.11.21-17.46.55:312][119]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.11.21-17.46.55:313][119]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.11.21-17.46.55:313][119]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.11.21-17.46.55:313][119]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.11.21-17.46.55:313][119]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.21-17.46.55:313][119]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.21-17.46.55:314][119]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.21-17.46.55:315][119]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.21-17.46.55:315][119]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.21-17.46.55:315][119]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.21-17.46.55:315][119]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.21-17.46.55:316][119]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.21-17.46.55:316][119]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.21-17.46.55:316][119]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.21-17.46.55:317][119]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.21-17.46.55:317][119]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.21-17.46.55:317][119]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.21-17.46.55:317][119]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.21-17.46.55:317][119]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.21-17.46.55:317][119]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.21-17.46.55:317][119]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.21-17.46.55:317][119]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.21-17.46.55:317][119]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.21-17.46.55:318][119]LogD3D11RHI: Shutdown
+[2019.11.21-17.46.55:318][119]LogD3D11RHI: CleanupD3DDevice
+[2019.11.21-17.46.55:319][119]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.21-17.46.55:319][119]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.21-17.46.55:319][119]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.21-17.46.55:413][119]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.21-17.46.55:419][119]LogExit: Exiting.
+[2019.11.21-17.46.55:437][119]Log file closed, 11/21/19 12:46:55
